@@ -1,7 +1,7 @@
 package simple_equality_problem;
 
 /**
- * Created by A Appelqvist.
+ * Created by A Appelqvist. 
  */
 
 public class Main {
